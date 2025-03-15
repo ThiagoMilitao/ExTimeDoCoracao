@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\bin\Debug\net9.0\ExTimeDoCoracao.exe
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\bin\Debug\net9.0\ExTimeDoCoracao.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\bin\Debug\net9.0\ExTimeDoCoracao.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\bin\Debug\net9.0\ExTimeDoCoracao.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\bin\Debug\net9.0\ExTimeDoCoracao.pdb
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\ExTimeDoCoracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\ExTimeDoCoracao.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\ExTimeDoCoracao.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\ExTimeDoCoracao.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\ExTimeDoCoracao.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\ExTimeDoCoracao.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\refint\ExTimeDoCoracao.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\ExTimeDoCoracao.pdb
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\ExTimeDoCoracao.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\ExTimeDoCoracao\obj\Debug\net9.0\ref\ExTimeDoCoracao.dll
